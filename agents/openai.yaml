@@ -1,0 +1,7 @@
+interface:
+  display_name: "小灯内容专家团"
+  short_description: "中文真实语境和 V4 卡片栈驱动的内容专家团"
+  default_prompt: "Use $creator-content-expert-team to draft, adapt, or audit content through 小灯主编、栗栗采风员、小墨执笔人、豆豆挑刺官、小剪修订员, with the V4 advanced content card stack."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,20 @@
+{
+  "skill": "creator-content-expert-team",
+  "version": "4.0.0",
+  "language": "zh-CN",
+  "domain": "<domain>",
+  "topic": "<topic>",
+  "platform": "<platform>",
+  "audience": "<audience>",
+  "risk_level": "<low|medium|high>",
+  "voice": "<voice>",
+  "needs": [
+    "reader scenes",
+    "domain texture",
+    "bad sentence warnings",
+    "rewrite moves",
+    "platform notes",
+    "claim boundaries"
+  ],
+  "must_avoid": []
+}
